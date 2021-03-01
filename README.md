@@ -3,7 +3,7 @@ Using NLP and Multiclass Logistic Regression to classify quotes belonging to 15 
 
 Every algorithm involved in this project was implemented from scratch (no sklearn, tensorflow, or any other machine learning/deep learning library)
 
-Originally a project for UCSB's AI class CS165A, modified for the purposes of this repo
+Originally a project for UCSB's AI class CS165A, modified for the purposes of this repo and for usability
 
 # Description 
 The goal of this model was to learn how to classify different quotes and texts from 15 different authors and correctly decide which author it belongs to. The training data used to train this model consists of 3000 text instances containing roughly 1000 words each ending with a comma and a label from 1 to 15 after this comma representing each of the authors. The cross validation data used to test this model contains 500 text instances of the same format.
