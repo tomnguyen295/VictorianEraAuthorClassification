@@ -12,5 +12,8 @@ All of the text data was converted into matrices using TF-IDF encoding so mathem
 # Results
 Here's what happened to the training and cross-validation error over time as the weight vector kept updating. Pretty solid.
 
+![plot](https://github.com/tomnguyen295/VictorianEraAuthorClassification/blob/main/Error_Over_Time.png)
+
+
 # Usage
 The model has already been trained! To use as is, just run linearRegression.py, find a quote online from one of the 15 authors (authors can be found in authors.txt) and copy/paste it in when prompted to. Now of course the model won't be right 100% of the time, but it actually does a decent job. If you want to see the entire training process yourself though, go ahead and delete Theta.pickle, Theta_SGD.pickle, and Error_Over_Time.png. You can mess around with any of the hyperparameters too if you are curious. Now, if you want to see the encoding process.... well good luck because this part took my computer a couple hours to run for some reason. Just delete the rest of the .pickle files for this (HIGHLY RECOMMEND THAT YOU DON'T BUT UP TO YOU)
