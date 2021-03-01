@@ -1,0 +1,16 @@
+,0
+Thomas Nelson,1
+Nathaniel Hawthorne,2
+George Moore,3
+Anne Manning,4
+Linn Boyd Porter,5
+Washington Irving,6
+Sarah Stickney Ellis,7
+Horace Greely,8
+Sinclair Lewis,9
+Swallow Barn,10
+Edith Wharton,11
+James Payn,12
+John Muir,13
+Edward Eggleston,14
+William Carleton,15
